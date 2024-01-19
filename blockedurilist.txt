@@ -1,0 +1,4 @@
+*://*.youtube.com
+*://*.discord.com
+*://*.minecraft.net
+*://*.arealme.com
