@@ -2,3 +2,4 @@
 *://*.discord.com
 *://*.minecraft.net
 *://*.arealme.com
+*://*.example.com
